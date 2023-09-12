@@ -1,13 +1,10 @@
 #include "raylib.h"
 #include "WallBreaker.h"
 
-
 int main()
 {
-	WallBreaker game;
-	game.Main();
+    WallBreaker game;
+    game.Main();
 
-
-
-	return 0;
+    return 0;
 }
