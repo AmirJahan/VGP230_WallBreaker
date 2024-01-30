@@ -1,0 +1,8 @@
+﻿  WallBreaker.cpp
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.h(34,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.h(48,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.h(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.h(48,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.cpp(132,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\WallBreakerGame\WallBreaker.cpp(145,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WallBreakerGame.vcxproj -> C:\Users\LCI_Vancouver-AJahan\source\repos\WallBreakerGame\x64\Debug\WallBreakerGame.exe
