@@ -2,23 +2,33 @@
 #include "raylib.h"
 
 /*
+This is our first serious attempt at creating a game using Raylib + C++.
+
+To do that, we will take the game created in class on Session 4 (Wall Breaker) and expand it with the following:
+
 1- Include deltaTime in all speed, movement calculations to make sure
 consistent speed is applied across devices
+
 
 2- Develop a CircleToRoundRectangleCollision to detect the collision that happens
 with the corners of the bricks
 
-3- Depending on where the collisoin happens with the bricks, come up with a direction
+
+3- Depending on where the collision happens with the bricks, come up with a direction
 that will affect the x and y of the ball's speed
 
-4- Include an unlimited number of levels that are created procedurally. 
+
+4- Include an unlimited number of levels that are created procedurally.
 Each time you spawn the game, a new layout should be displayed
 
-5- Have pickups such as life that fall from certain bricks uponi impact. 
-Collecting them by the player, will activate the reward. 
 
-6- Include a cheat. Such as a pickup that temporarily (for instance for the next 5 secodns)
-[with a time feedback for the usse] eliminates the reversal of speed upon impact with bricks. 
+5- Have pickups such as life that fall from certain bricks upon impact.
+Collecting them by the player, will activate the reward.
+
+
+6- Include a cheat. Such as a pickup that temporarily (for instance for the next 5 seconds)
+[with a time feedback for the user] eliminates the reversal of speed upon impact with bricks.
+
 
 7- Bonus -> Include sound effects
 8- Bonus -> Find a way to put the game on your phone
